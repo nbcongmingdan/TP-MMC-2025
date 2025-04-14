@@ -12,9 +12,20 @@ où $H_{m}$ est la hauteur maximale d'eau possible ; plus précisément, il s'a!
 
 # 2- Étude de $\pmb{\mathscr{o}}$ en fonction de h (pour $\underline{{H}}_{\underline{{m}}}.$ constant) à largeur L constante  
 
-$$
-\begin{array}{l}{\displaystyle\frac{d Q}{d h}=L\sqrt{2g}(\sqrt{H_{m}-h}-\frac{h}{2\sqrt{H_{m}-h}})=0\qquad\Rightarrow\qquad\mathrm{extremumpour}\underbrace{H_{c}=\frac{2}{3}H_{m}\mathrm{avec}\underbrace{Q_{c}=L\sqrt{g}\log(h)}_{\mathrm{Nombre}\qquad\forall c=\sqrt{\frac{1}{\sqrt{g}h}}}}\ {\displaystyle{N o m b r e d e F r o u d e:\left[\frac{F_{r}-\frac{\nu}{\sqrt{g}h}}{\sqrt{g}h}\right]}}\ {\displaystyle\operatorname{Pourlecanal,onpeutecrire:}\underbrace{F_{r}=\frac{Q}{L\sqrt{g}h\sqrt{h}}=\sqrt{2(\frac{H_{m}}{h}-1)}=\sqrt{\frac{3H_{c}}{h}-2}\Rightarrow\qquad\frac{\left[h>H_{c}\right]\sqrt{g}\log\left[F_{r}>1\right]}{\left[\sqrt{g}h\right]}=0.}\end{array}
-$$  
+$\frac{d Q}{d h}=L \sqrt{2 g}\left(\sqrt{H_m-h}-\frac{h}{2 \sqrt{H_m-h}}\right)=0 \quad \Rightarrow \quad$ extremum pour
+
+
+$H_c=\frac{2}{3} H_m$
+
+ avec $\underline{Q}_c=L \sqrt{g}\left(\frac{2}{3} H_m\right)^{\frac{3}{2}}$
+
+
+Nombre de Froude : $F_r=\frac{v}{\sqrt{g h}}$
+
+
+Pour le canal, on peut écrire :
+
+$F_r=\frac{Q}{L \sqrt{g} h \sqrt{h}}=\sqrt{2\left(\frac{H_m}{h}-1\right)}=\sqrt{\frac{3 H_c}{h}-2} \Rightarrow \quad h>H_c \Leftrightarrow F_r>1$
 
 ![](images/fd93649cb74910144db8564277d164a3292f3be440b0589cdb33f7b4e39efe38.jpg)  
 
